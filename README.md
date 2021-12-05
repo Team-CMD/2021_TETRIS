@@ -24,6 +24,17 @@
 	- 1. 결과물 발표
 	- 2. 느낀점 및 힘든점
 ---
+## 프로젝트 일정
+
+[👉 Wiki](https://github.com/Team-CMD/2021_TETRIS/wiki/Schedule)
+
+---
+## 프로젝트 기능 정리
+
+[👉 Wiki](https://github.com/Team-CMD/2021_TETRIS/wiki/Requirement)
+
+---
+
 
 ## 🎫 Member
 	- 최형순, 신경민, 나성현, 신현수, 김민성
