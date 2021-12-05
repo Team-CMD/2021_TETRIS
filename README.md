@@ -60,7 +60,7 @@
 1. `Local Working Directory`를 정한 뒤 해당 위치에서 `bash`창을 연다.
 2. 다음과 같은 순서로 명령어를 친다.
     - `git init`
-    - `git remote add origin https://github.com/Team-CMD/2021_TETRIS.git
+    - `git remote add origin https://github.com/Team-CMD/2021_TETRIS.git`
     - `git pull origin main`
     - `git branch -M main`
     - 파일을 수정(작업)한다.
