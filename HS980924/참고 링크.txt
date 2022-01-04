@@ -1,0 +1,16 @@
+1. 테트리스 게임판 만들기 참고
+- https://ai-creator.tistory.com/559#contents_2
+- https://comsperger.tistory.com/323 (클래스 사용 참고)
+
+2. pygame 기초 및 보드판 그리는 메소드 설명 참고
+- https://devnauts.tistory.com/61 ( 기초 )
+- https://kkamikoon.tistory.com/129 ( 메소드 설명 )
+
+
+3. pygame.draw.rect() 함수 기능 설명 
+- https://kkamikoon.tistory.com/120
+
+
+참고 예정
+- https://github.com/JuKyYoon/Pygame_PJ
+
